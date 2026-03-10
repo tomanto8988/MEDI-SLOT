@@ -1,0 +1,1 @@
+{"name": "backend", "version": "1.0.0", "main": "index.js", "scripts": { "test": "echo \"Error: no test specified\" && exit 1" }, "dependencies": { "express": "^4.16.4", "mongodb": "^3.5.5", "jsonwebtoken": "^8.5.1", "dotenv": "^8.2.0" }}
